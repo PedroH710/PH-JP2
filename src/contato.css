@@ -1,0 +1,72 @@
+.formulario-box{
+    position: relative;
+    top: 50px;
+    color: black;
+    background-color: rgb(245, 245, 245);
+    font-size: 20px;
+    justify-content: left;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    width: 850px;
+    height: 850px;
+    border-radius: 10px;
+}
+
+.Questão01{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+
+.Ryanviado{
+    position: relative;
+    right: 5px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: lightgrey;
+}
+
+.check-grupobox{
+    position: relative;
+    right: 400px;
+    justify-content: left;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    
+}
+
+.check-texto{
+    position: relative;
+    text-align: left;
+    bottom: 25px;
+    left: 430px;
+}
+
+.range-texto{
+    position: relative;
+    right: 320px;
+    top: 20px;
+}
+
+.input-range{
+    line-height: 0.1;
+}
+
+.SatisfacaoGeral{
+    position: relative;
+    top: 50px;
+    right: 5px;
+    width: 800px;
+}

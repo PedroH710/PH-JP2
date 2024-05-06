@@ -1,0 +1,66 @@
+.Home{
+    color:#203444;
+    margin-top: 270px;
+}
+
+.Sub-titulo{
+    font-size: 22px;
+}
+
+.Titulos{
+    position: relative;
+    bottom: 240px;
+}
+
+.Textinho1{
+    font: weight 35px;
+    color: black;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 92px;
+    position: relative;
+    left: 3px;
+}
+.Textinho2{
+    font: weight 50px;
+    color: black;
+    font-size: 17px;
+    display: flex;
+    flex-direction: row;
+    gap: 92px;
+    position: relative;
+    left: 280px;
+    top: -40px;
+}
+.Textinho3{
+    font: weight 50px;
+    color: black;
+    font-size: 17px;
+    display: flex;
+    flex-direction: row;
+    gap: 92px;
+    position: relative;
+    left:550px;
+    top:-80px;
+}
+.Textinho4{
+    font: weight 50px;
+    color: black;
+    font-size: 17px;
+    display: flex;
+    flex-direction: row;
+    gap: 92px;
+    position: relative;
+    left: 840px;
+    top: -120px;
+}
+
+
+.Fotos{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+}
